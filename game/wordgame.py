@@ -18,7 +18,7 @@ class WordGame:
         """
         self._connected_to_internet = self._check_internet_connection()
         self.word_data = word_data
-        self.word2id = {word: i for i, word in enumerate(self.backup_words)}
+        self.word2id = {word: i for i, word in enumerate(self.word_data)}
 
     # TODO: check whether pandas row contain ids (name attribute?)
     def hints(self, word_id):
