@@ -39,16 +39,16 @@ class WordGame:
     def _first_letter_hint(self, word_row):
         return word_row[0][0]
 
-    def _pos_hint(self, word, word_id):
+    def _pos_hint(self, word_row):
         pass
 
-    def _coocurence_hint(self, word, word_id):
+    def _coocurence_hint(self, word_row):
         pass
 
-    def _semantics_hint(self, word, word_id):
+    def _semantics_hint(self, word_row):
         pass
 
-    def _wiktionary_hint(self, word, word_id):
+    def _wiktionary_hint(self, word_row):
         pass
 
     def _check_internet_connection(self, host='http://google.com'):
