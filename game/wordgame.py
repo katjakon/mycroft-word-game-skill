@@ -37,7 +37,7 @@ class WordGame:
         return len(word_row[0])
 
     def _first_letter_hint(self, word_row):
-        return word_row[0][0]
+        return word_row['word'][0]
 
     def _pos_hint(self, word_row):
         pass
