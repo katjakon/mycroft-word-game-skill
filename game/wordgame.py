@@ -12,14 +12,14 @@ class WordGame:
 
         Parameters
         __________
-        word_data : pandas.DataFrame
+        word_row : pandas.core.series.Series
             Data used for the case when there is no connection to the internet
             or for faster information retrieval.
             Each row contains:
             + the word
-            + the POS tag
-            + the most similar word
-            + the definition from wiktionary
+            + synonyms (WordNet)
+            + category (one hypernym from WordNet)
+            + the definition (WordNet)
         """
         self._connected_to_internet = self._check_internet_connection()
         self.word_data = word_data
