@@ -41,9 +41,8 @@ class WordGame:
             A tuple of hints. The tuple respectively contains:
             + the word's length
             + the first letter
-            + a list of most common coocurrences
             + the most similar word
-            + definition from Wiktionaty
+            + definition from Wordnet
         """
         word_row = self.word_data.T[word_id]
         hints = (
