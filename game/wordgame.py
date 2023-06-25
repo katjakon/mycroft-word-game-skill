@@ -50,7 +50,6 @@ class WordGame:
             self._word_length_hint(word_row),
             self._first_letter_hint(word_row),
             self._pos_hint(word_row),
-            self._coocurence_hint(word_row),
             self._semantics_hint(word_row),
             self._wiktionary_hint(word_row)
         )
