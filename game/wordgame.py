@@ -54,7 +54,7 @@ class WordGame:
         """
         hints = {
             "length": self._word_length_hint(),
-            "letter": self._first_letter_hint(),
+            "letter": self._first_letter_hint().upper(),
             "category": self._category_hint(),
             "synonyms": self._synonyms_hint(),
             "definition": self._wiktionary_hint()
