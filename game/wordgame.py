@@ -6,7 +6,7 @@ class WordGame:
     A class designed for Mycroft AI to generate hints for a game
     which asks the user to guess a "secret word".
     """
-    def __init__(self, word_data):
+    def __init__(self, word_row):
         """
         Initialization
 
@@ -21,12 +21,9 @@ class WordGame:
             + category (one hypernym from WordNet)
             + the definition (WordNet)
         """
-        self._connected_to_internet = self._check_internet_connection()
-        self.word_data = word_data
-        self.word2id = {word: i for i, word in enumerate(self.word_data)}
+        self.word_row = word_row
 
-    # TODO: check whether pandas row contain ids (name attribute?)
-    def hints(self, word_id):
+    def hints(self):
         """
         Produces hints for the word id.
 
@@ -44,81 +41,71 @@ class WordGame:
             + the most similar word
             + definition from Wordnet
         """
-        word_row = self.word_data.T[word_id]
         hints = (
-            self._word_length_hint(word_row),
-            self._first_letter_hint(word_row),
-            self._pos_hint(word_row),
-            self._semantics_hint(word_row),
-            self._wiktionary_hint(word_row)
+            self._word_length_hint(),
+            self._first_letter_hint(),
+            self._category_hint(),
+            self._synonyms_hint(),
+            self._wiktionary_hint()
         )
         return hints
 
-    def _word_length_hint(self, word_row):
+    def _word_length_hint(self):
         """
         Calculates and returns the length of the word in characters
-
-        Parameters
-        __________
-        word_row : pandas.core.series.Series
-            A row from the dataframe, which corresponds to the secret word.
 
         Returns
         _______
         int
             Length of the word in characters.
         """
-        return len(word_row['word'])
+        word_row = self.word_row
+        name = word_row.word
+        return len(name)
 
-    def _first_letter_hint(self, word_row):
+    def _first_letter_hint(self):
         """
         Finds and returns the first character of the word
-
-        Parameters
-        __________
-        word_row : pandas.core.series.Series
-            A row from the dataframe, which corresponds to the secret word.
 
         Returns
         _______
         str
             The first character of the word.
         """
-        return word_row['word'][0]
+        word_row = self.word_row
+        word = word_row.word
+        return word[0]
 
-    def _pos_hint(self, word_row):
+    def _category_hint(self):
         """
-        Returns the word's part of speech
+        Returns the animal's category
 
-        Parameters
-        __________
-        word_row : pandas.core.series.Series
-            A row from the dataframe, which corresponds to the secret word.
-        
         Returns
         _______
         str
-            The word's part of speech, represented as a string.
+            The word's category, represented as a string.
         """
-        pass
+        word_row = self.word_row
+        category = word_row.category
+        return category
 
-    def _semantics_hint(self, word_row):
+    def _synonyms_hint(self):
         """
-        Finds and returns the closest word in terms of distributional semantics.
+        Finds and returns synonyms, according to WordNet.
 
-        Parameters
-        __________
-        word_row : pandas.core.series.Series
-            A row from the dataframe, which corresponds to the secret word.
-        
         Returns
         _______
-        closest_word : str
-            The closest word.
+        synonyms : list[str]
+            Synonyms.
         """
-        pass
+        word_row = self.word_row
+        synonyms_string = word_row.synonyms
+        if isinstance(synonyms_string, float):
+            return None
+        synonyms = [syn.replace('_', ' ') for syn in synonyms_string.split()]
+        return synonyms[:3] # we need no more than three.
 
-    def _wiktionary_hint(self, word_row):
+    def _wiktionary_hint(self):
         """
         Retrieves and returns the definition of the word.
 
@@ -132,14 +119,6 @@ class WordGame:
         definition : str
             The word's definition.
         """
-        pass
-
-    def _check_internet_connection(self, host='http://google.com'):
-        try:
-            request.urlopen(host)
-            return True
-        except request.URLError: 
-            return False
-
-    def _offline_game(self):
-        pass
+        word_row = self.word_row
+        definition = word_row.definition
+        return definition
