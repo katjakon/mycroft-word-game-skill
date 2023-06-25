@@ -41,13 +41,13 @@ class WordGame:
             + the most similar word
             + definition from Wordnet
         """
-        hints = (
-            self._word_length_hint(),
-            self._first_letter_hint(),
-            self._category_hint(),
-            self._synonyms_hint(),
-            self._wiktionary_hint()
-        )
+        hints = {
+            "length": self._word_length_hint(),
+            "letter": self._first_letter_hint(),
+            "category": self._category_hint(),
+            "synonyms": self._synonyms_hint(),
+            "definition": self._wiktionary_hint()
+        }
         return hints
 
     def _word_length_hint(self):
