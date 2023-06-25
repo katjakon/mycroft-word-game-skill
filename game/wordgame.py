@@ -6,7 +6,7 @@ class WordGame:
     A class designed for Mycroft AI to generate hints for a game
     which asks the user to guess a "secret word".
     """
-    def __init__(self, word_row):
+    def __init__(self, word_data_path):
         """
         Initialization
 
@@ -21,7 +21,12 @@ class WordGame:
             + category (one hypernym from WordNet)
             + the definition (WordNet)
         """
-        self.word_row = word_row
+        self.word_data = pd.read_csv(word_data_path)
+
+        sample = self.word_data.sample(n=1)
+        self.word_row = sample.iloc[0]
+
+        self._word_data_path = word_data_path
 
     def hints(self):
         """
