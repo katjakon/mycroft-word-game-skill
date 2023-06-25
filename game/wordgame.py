@@ -27,6 +27,11 @@ class WordGame:
         self.word_row = sample.iloc[0]
 
         self._word_data_path = word_data_path
+        self._answer = self.word_row.word
+    
+    @property
+    def answer(self):
+        return self._answer
 
     def hints(self):
         """
