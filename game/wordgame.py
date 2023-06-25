@@ -28,7 +28,7 @@ class WordGame:
         self.word_row = sample.iloc[0]
 
         self._word_data_path = word_data_path
-        self._answer = self.word_row.word
+        self._answer = self.word_row.word.replace('_', ' ')
     
     @property
     def answer(self):
