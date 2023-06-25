@@ -106,15 +106,21 @@ class WordGame:
 
         Returns
         _______
-        synonyms : list[str]
+        synonyms : str
             Synonyms.
         """
         word_row = self.word_row
         synonyms_string = word_row.synonyms
         if isinstance(synonyms_string, float):
             return None
+
         synonyms = [syn.replace('_', ' ') for syn in synonyms_string.split()]
-        return synonyms[:3] # we need no more than three.
+        synonyms = synonyms[:3] # we need no more than three.
+        if len(synonyms) > 1:
+            synonyms_hint = ", ".join(synonyms[:-1])+" or "+synonyms[-1]
+        else:
+            synonyms_hint = synonyms[0]
+        return synonyms_hint
 
     def _wiktionary_hint(self):
         """
