@@ -1,5 +1,6 @@
 """File containing the WordGame class."""
 from urllib import request
+import pandas as pd
 
 class WordGame:
     """
