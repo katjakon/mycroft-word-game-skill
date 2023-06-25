@@ -102,22 +102,6 @@ class WordGame:
         """
         pass
 
-    def _coocurence_hint(self, word_row):
-        """
-        Finds and returns words, with which the word most commonly coocurs.
-
-        Parameters
-        __________
-        word_row : pandas.core.series.Series
-            A row from the dataframe, which corresponds to the secret word.
-        
-        Returns
-        _______
-        coocurences : list[str]
-            A list of most common coocurences.
-        """
-        pass
-
     def _semantics_hint(self, word_row):
         """
         Finds and returns the closest word in terms of distributional semantics.
