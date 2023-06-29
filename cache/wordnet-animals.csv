@@ -1,59 +1,208 @@
-,word,synonyms,category,example,definition
-0,ostrich,Struthio_camelus,bird,,fast-running African flightless bird with two-toed feet; largest living bird
-1,hedge_sparrow,dunnock Prunella_modularis,bird,,small brownish European songbird
-2,blackbird,merl merle ouzel ousel Turdus_merula,bird,,common black European thrush
-3,robin,Turdus_migratorius,bird,,large American thrush having a rust-red breast and abdomen
-4,raven,Corvus_corax,bird,,large black bird with a straight bill and long wedge-shaped tail
-5,jackdaw,Corvus_monedula,bird,,common black-and-grey Eurasian bird noted for thievery
-6,kestrel,Falco_tinnunculus,bird,,small Old World falcon that hovers in the air against a wind
-7,sparrow_hawk,American_kestrel kestrel Falco_sparverius,bird,,small North American falcon
-8,caecilian,blindworm,amphibian,,any of the small slender limbless burrowing wormlike amphibians of the order Gymnophiona; inhabit moist soil in tropical regions
-9,common_iguana,Iguana_iguana,reptile,,large herbivorous tropical American arboreal lizards with a spiny crest along the back; used as human food in Central America and South America
-10,western_fence_lizard,swift blue-belly Sceloporus_occidentalis,reptile,,common western lizard; seen on logs or rocks
-11,blindworm,slowworm Anguis_fragilis,reptile,,small burrowing legless European lizard with tiny eyes; popularly believed to be blind
-12,copperhead,Denisonia_superba,reptile,,venomous but sluggish reddish-brown snake of Australia
-13,sea_snake,,reptile,,any of numerous venomous aquatic viviparous snakes having a fin-like tail; of warm littoral seas; feed on fish which they immobilize with quick-acting venom
-14,water_moccasin,cottonmouth cottonmouth_moccasin Agkistrodon_piscivorus,reptile,,venomous semiaquatic snake of swamps in southern United States
-15,sidewinder,horned_rattlesnake Crotalus_cerastes,reptile,,small pale-colored desert rattlesnake of southwestern United States; body moves in an s-shaped curve
-16,harvestman,daddy_longlegs Phalangium_opilio,arachnid,,spiderlike arachnid with a small rounded body and very long thin legs
-17,scorpion,,arachnid,,arachnid of warm dry regions having a long segmented tail ending in a venomous stinger
-18,tarantula,,arachnid,,large hairy tropical spider with fangs that can inflict painful but not highly venomous bites
-19,European_wolf_spider,tarantula Lycosa_tarentula,arachnid,,large southern European spider once thought to be the cause of tarantism (uncontrollable bodily movement)
-20,chick,biddy,bird,,young bird especially of domestic fowl
-21,peacock,,bird,,male peafowl; having a crested head and very large fanlike tail marked with iridescent eyes or spots
-22,kookaburra,laughing_jackass Dacelo_gigas,bird,,Australian kingfisher having a loud cackling cry
-23,mallard,Anas_platyrhynchos,bird,,wild dabbling duck from which domestic ducks are descended; widely distributed
-24,echidna,spiny_anteater anteater,mammal,,a burrowing monotreme mammal covered with spines and having a long snout and claws for hunting ants and termites; native to Australia
-25,platypus,duckbill Ornithorhynchus_anatinus,mammal,,small densely furred aquatic monotreme of Australia and Tasmania having a broad bill and tail and webbed feet; only species in the family Ornithorhynchidae
-26,numbat,banded_anteater anteater Myrmecobius_fasciatus,mammal,,small Australian marsupial having long snout and strong claws for feeding on termites; nearly extinct
-27,hedgehog,Erinaceus_europaeus Erinaceus_europeaeus,mammal,,small nocturnal Old World mammal covered with both hair and protective spines
-28,Portuguese_man-of-war,jellyfish,hydroid,,large siphonophore having a bladderlike float and stinging tentacles
-29,slug,,mollusk,,any of various terrestrial gastropods having an elongated slimy body and no external shell
-30,flamingo,,bird,,large pink to scarlet web-footed wading bird with down-bent bill; inhabits brackish lakes
-31,aardvark,ant_bear anteater Orycteropus_afer,mammal,,nocturnal burrowing mammal of the grasslands of Africa that feeds on termites; sole extant representative of the order Tubulidentata
-32,cougar,puma catamount mountain_lion painter panther Felis_concolor,mammal,,large American feline resembling a lion
-33,grizzly,silvertip silver-tip Ursus_horribilis Ursus_arctos_horribilis,mammal,,powerful brownish-yellow bear of the uplands of western North America
-34,ice_bear,polar_bear Ursus_Maritimus Thalarctos_maritimus,mammal,,white bear of Arctic regions
-35,crab_louse,pubic_louse Phthirius_pubis,insect,,a louse that infests the pubic region of the human body
-36,midge,,insect,,minute two-winged mosquito-like fly lacking biting mouthparts; appear in dancing swarms especially near water
-37,bumblebee,humblebee,insect,,robust hairy social bee of temperate regions
-38,dragonfly,darning_needle devil's_darning_needle sewing_needle snake_feeder snake_doctor mosquito_hawk skeeter_hawk,insect,,slender-bodied non-stinging insect having iridescent wings that are outspread at rest; adults and nymphs feed on mosquitoes etc.
-39,nymph,,larva,,a larva of an insect with incomplete metamorphosis (as the dragonfly or mayfly)
-40,maggot,,larva,,the larva of the housefly and blowfly commonly found in decaying organic matter
-41,guinea_pig,Cavia_cobaya,mammal,,stout-bodied nearly tailless domesticated cavy; often kept as a pet and widely used in research
-42,pony,,mammal,he liked to bet on the ponies,an informal term for a racehorse
-43,mule,,mammal,,hybrid offspring of a male donkey and a female horse; usually sterile
-44,bullock,steer,mammal,,castrated bull
-45,hog,,mammal,,a sheep up to the age of one year; one yet to be sheared
-46,hart,stag,mammal,,"a male deer, especially an adult male red deer"
-47,wapiti,elk American_elk Cervus_elaphus_canadensis,mammal,,large North American deer with large much-branched antlers in the male
-48,elk,moose Alces_alces,mammal,,large northern deer with enormous flattened antlers in the male; called `elk' in Europe and `moose' in North America
-49,pangolin,scaly_anteater anteater,mammal,,toothless mammal of southern Africa and Asia having a body covered with horny scales and a long snout for feeding on ants and termites
-50,tadpole,polliwog pollywog,larva,,a larval frog or toad
-51,lesser_panda,red_panda bear_cat cat_bear Ailurus_fulgens,mammal,,reddish-brown Old World raccoon-like carnivore; in some classifications considered unrelated to the giant pandas
-52,giant_panda,panda_bear coon_bear Ailuropoda_melanoleuca,mammal,,large black-and-white herbivorous mammal of bamboo forests of China and Tibet; in some classifications considered a member of the bear family or of a separate family Ailuropodidae
-53,haddock,Melanogrammus_aeglefinus,fish,,important food fish on both sides of the Atlantic; related to cod but usually smaller
-54,perch,,fish,,any of numerous spiny-finned fishes of various families of the order Perciformes
-55,piranha,pirana caribe,fish,,small voraciously carnivorous freshwater fishes of South America that attack and destroy living animals
-56,plaice,Pleuronectes_platessa,fish,,large European food fish
-57,halibut,holibut,fish,,marine food fish of the northern Atlantic or northern Pacific; the largest flatfish and one of the largest teleost fishes
+,word,synonyms,category,definition
+0,carp,,fish,any of various freshwater fish of the family Cyprinidae
+1,goldfish,Carassius_auratus,fish,small golden or orange-red freshwater fishes of Eurasia used as pond or aquarium fishes
+2,seahorse,sea_horse,fish,small fish with horse-like heads bent sharply downward and curled tails; swim in upright position
+3,shark,,fish,any of numerous elongate mostly marine carnivorous fishes with heterocercal caudal fins and tough skin covered with small toothlike scales
+4,ray,,fish,cartilaginous fishes having horizontally flattened bodies and enlarged winglike pectoral fins with gills on the underside; most swim by moving the pectoral fins
+5,sawfish,,fish,primitive ray with sharp teeth on each edge of a long flattened snout
+6,ostrich,Struthio_camelus,bird,fast-running African flightless bird with two-toed feet; largest living bird
+7,sparrow,dunnock Prunella_modularis,bird,small brownish European songbird
+8,finch,,bird,any of numerous small songbirds with short stout bills adapted for crushing seeds
+9,canary,,bird,any of several small Old World finches
+10,sparrow,,bird,any of several small dull-colored singing birds feeding on seeds or insects
+11,blackbird,merl merle ouzel ousel Turdus_merula,bird,common black European thrush
+12,robin,Turdus_migratorius,bird,large American thrush having a rust-red breast and abdomen
+13,nightingale,Luscinia_megarhynchos,bird,European songbird noted for its melodious nocturnal song
+14,blackbird,,bird,any bird of the family Icteridae whose male is black or predominantly black
+15,crow,,bird,black birds having a raucous call
+16,raven,Corvus_corax,bird,large black bird with a straight bill and long wedge-shaped tail
+17,jackdaw,Corvus_monedula,bird,common black-and-grey Eurasian bird noted for thievery
+18,jay,,bird,crested largely blue bird
+19,wren,,bird,any of several small active brown birds of the northern hemisphere with short upright tails; they feed on insects
+20,nuthatch,nutcracker,bird,any of various small short-tailed songbirds with strong feet and a sharp beak that feed on small nuts and insects
+21,tit,,bird,small insectivorous birds
+22,swallow,,bird,small long-winged songbird noted for swift graceful flight and the regularity of its migrations
+23,hawk,,bird,diurnal bird of prey typically having short rounded wings and a long tail
+24,falcon,,bird,diurnal birds of prey having long pointed powerful wings adapted for swift flight
+25,kestrel,Falco_tinnunculus,bird,small Old World falcon that hovers in the air against a wind
+26,kestrel,American_kestrel kestrel Falco_sparverius,bird,small North American falcon
+27,eagle,bird_of_Jove,bird,any of various large keen-sighted diurnal birds of prey noted for their broad wings and strong soaring flight
+28,vulture,,bird,any of various large diurnal birds of prey having naked heads and weak claws and feeding chiefly on carrion
+29,owl,bird_of_Minerva bird_of_night hooter,bird,nocturnal bird of prey with hawk-like beak and claws and large head with front-facing eyes
+30,salamander,,amphibian,any of various typically terrestrial amphibians that resemble lizards and that return to water only to breed
+31,newt,triton,amphibian,small usually bright-colored semiaquatic salamanders of North America and Europe and northern Asia
+32,frog,toad anuran batrachian salientian,amphibian,any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species
+33,blindworm,blindworm,amphibian,any of the small slender limbless burrowing wormlike amphibians of the order Gymnophiona; inhabit moist soil in tropical regions
+34,turtle,,reptile,any of various aquatic and land reptiles having a bony shell and flipper-like limbs for swimming
+35,tortoise,,reptile,usually herbivorous land turtles having clawed elephant-like limbs; worldwide in arid area except Australia and Antarctica
+36,saurian,,reptile,any of various reptiles of the suborder Sauria which includes lizards; in former classifications included also the crocodiles and dinosaurs
+37,lizard,,reptile,relatively long-bodied reptile with usually two pairs of legs and a tapering tail
+38,gecko,,reptile,any of various small chiefly tropical and usually nocturnal insectivorous terrestrial lizards typically with immovable eyelids; completely harmless
+39,iguana,Iguana_iguana,reptile,large herbivorous tropical American arboreal lizards with a spiny crest along the back; used as human food in Central America and South America
+40,swift,swift blue-belly Sceloporus_occidentalis,reptile,common western lizard; seen on logs or rocks
+41,blindworm,slowworm Anguis_fragilis,reptile,small burrowing legless European lizard with tiny eyes; popularly believed to be blind
+42,chameleon,chamaeleon,reptile,lizard of Africa and Madagascar able to change skin color and having a projectile tongue
+43,crocodile,,reptile,large voracious aquatic reptile having a long snout with massive jaws and sharp teeth and a body covered with bony plates; of sluggish tropical waters
+44,snake,serpent ophidian,reptile,limbless scaly elongate reptile; some are venomous
+45,boa,,reptile,any of several chiefly tropical constrictors with vestigial hind limbs
+46,python,,reptile,large Old World boas
+47,coral_snake,harlequin-snake,reptile,any of several venomous New World snakes brilliantly banded in red and black and either yellow or white; widely distributed in South America and Central America
+48,copperhead,Denisonia_superba,reptile,venomous but sluggish reddish-brown snake of Australia
+49,sea_snake,,reptile,any of numerous venomous aquatic viviparous snakes having a fin-like tail; of warm littoral seas; feed on fish which they immobilize with quick-acting venom
+50,cottonmouth,cottonmouth cottonmouth_moccasin Agkistrodon_piscivorus,reptile,venomous semiaquatic snake of swamps in southern United States
+51,rattlesnake,rattler,reptile,pit viper with horny segments at the end of the tail that rattle when shaken
+52,sidewinder,horned_rattlesnake Crotalus_cerastes,reptile,small pale-colored desert rattlesnake of southwestern United States; body moves in an s-shaped curve
+53,harvestman,daddy_longlegs Phalangium_opilio,invertebrate,spiderlike arachnid with a small rounded body and very long thin legs
+54,scorpion,,invertebrate,arachnid of warm dry regions having a long segmented tail ending in a venomous stinger
+55,spider,,invertebrate,"predatory arachnid with eight legs, two poison fangs, two feelers, and usually two silk-spinning organs at the back end of the body; they spin silk to make cocoons for eggs or traps for prey"
+56,tarantula,,invertebrate,large hairy tropical spider with fangs that can inflict painful but not highly venomous bites
+57,tarantula,tarantula Lycosa_tarentula,invertebrate,large southern European spider once thought to be the cause of tarantism (uncontrollable bodily movement)
+58,biddy,biddy,bird,young bird especially of domestic fowl
+59,rooster,rooster,bird,adult male chicken
+60,biddy,biddy,bird,adult female chicken
+61,turkey,Meleagris_gallopavo,bird,large gallinaceous bird with fan-shaped tail; widely domesticated for food
+62,pheasant,,bird,large long-tailed gallinaceous bird native to the Old World but introduced elsewhere
+63,peacock,,bird,male peafowl; having a crested head and very large fanlike tail marked with iridescent eyes or spots
+64,pigeon,,bird,wild and domesticated birds having a heavy body and short legs
+65,dove,,bird,any of numerous small pigeons
+66,parrot,,bird,usually brightly colored zygodactyl tropical birds with short hooked beaks and the ability to mimic sounds
+67,parakeet,parrakeet parroket paraquet paroquet parroquet,bird,any of numerous small slender long-tailed parrots
+68,cuckoo,,bird,any of numerous European and North American birds having pointed wings and a long tail
+69,kookaburra,laughing_jackass Dacelo_gigas,bird,Australian kingfisher having a loud cackling cry
+70,swift,,bird,a small bird that resembles a swallow and is noted for its rapid flight
+71,woodpecker,peckerwood,bird,bird with strong claws and a stiff tail adapted for climbing and a hard chisel-like bill for boring into wood for insects
+72,duck,,bird,small wild or domesticated web-footed broad-billed swimming bird usually having a depressed body and short legs
+73,mallard,Anas_platyrhynchos,bird,wild dabbling duck from which domestic ducks are descended; widely distributed
+74,goose,,bird,web-footed long-necked typically gregarious migratory aquatic birds usually larger and less aquatic than ducks
+75,swan,,bird,stately heavy-bodied aquatic bird with very long neck and usually white plumage as adult
+76,anteater,spiny_anteater anteater,mammal,a burrowing monotreme mammal covered with spines and having a long snout and claws for hunting ants and termites; native to Australia
+77,platypus,duckbill Ornithorhynchus_anatinus,mammal,small densely furred aquatic monotreme of Australia and Tasmania having a broad bill and tail and webbed feet; only species in the family Ornithorhynchidae
+78,kangaroo,,mammal,any of several herbivorous leaping marsupials of Australia and New Guinea having large powerful hind legs and a long thick tail
+79,anteater,banded_anteater anteater Myrmecobius_fasciatus,mammal,small Australian marsupial having long snout and strong claws for feeding on termites; nearly extinct
+80,cow,,mammal,mature female of mammals of which the male is called `bull'
+81,mole,,mammal,small velvety-furred burrowing mammal having small eyes and fossorial forefeet
+82,hedgehog,Erinaceus_europaeus Erinaceus_europeaeus,mammal,small nocturnal Old World mammal covered with both hair and protective spines
+83,jellyfish,,invertebrate,any of numerous usually marine and free-swimming coelenterates that constitute the sexually reproductive forms of hydrozoans and scyphozoans
+84,jellyfish,jellyfish,invertebrate,large siphonophore having a bladderlike float and stinging tentacles
+85,worm,,invertebrate,any of numerous relatively small elongated soft-bodied animals especially of the phyla Annelida and Chaetognatha and Nematoda and Nemertea and Platyhelminthes; also many insect larvae
+86,snail,,invertebrate,freshwater or marine or terrestrial gastropod mollusk usually having an external enclosing spiral shell
+87,slug,,invertebrate,any of various terrestrial gastropods having an elongated slimy body and no external shell
+88,scallop,scollop,invertebrate,edible marine bivalve having a fluted fan-shaped shell that swim by expelling water from the shell in a series of snapping motions
+89,crab,,invertebrate,decapod having eyes on short stalks and a broad flattened carapace with a small abdomen folded under the thorax and pincers
+90,lobster,,invertebrate,any of several edible marine crustaceans of the families Homaridae and Nephropsidae and Palinuridae
+91,shrimp,,invertebrate,small slender-bodied chiefly marine decapod crustaceans with a long tail and single pair of pincers; many species are edible
+92,stork,,bird,large mostly Old World wading birds typically having white-and-black plumage
+93,flamingo,,bird,large pink to scarlet web-footed wading bird with down-bent bill; inhabits brackish lakes
+94,gull,,bird,mostly white aquatic bird having long pointed wings and short legs
+95,pelican,,bird,large long-winged warm-water seabird having a large bill with a distensible pouch for fish
+96,penguin,,bird,short-legged flightless birds of cold southern especially Antarctic regions having webbed feet and wings modified as flippers
+97,albatross,mollymawk,bird,large web-footed birds of the southern hemisphere having long narrow wings; noted for powerful gliding flight
+98,whale,,mammal,any of the larger cetacean mammals having a streamlined body and breathing through a blowhole on the head
+99,dolphin,,mammal,any of various small toothed whales with a beaklike snout; larger than porpoises
+100,seal,,mammal,any of numerous marine mammals that come on shore to breed; chiefly of cold regions
+101,seahorse,seahorse sea_horse,mammal,either of two large northern marine mammals having ivory tusks and tough hide over thick blubber
+102,anteater,ant_bear anteater Orycteropus_afer,mammal,nocturnal burrowing mammal of the grasslands of Africa that feeds on termites; sole extant representative of the order Tubulidentata
+103,dog,Canis_familiaris,mammal,a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds
+104,dachshund,dachsie badger_dog,mammal,small long-bodied short-legged German breed of dog having a short sleek coat and long drooping ears; suited for following game into burrows
+105,wolf,,mammal,any of various predatory carnivorous canine mammals of North America and Eurasia that usually hunt in packs
+106,hyena,hyaena,mammal,doglike nocturnal mammal of Africa and southern Asia that feeds chiefly on carrion
+107,fox,,mammal,alert carnivorous mammal with pointed muzzle and ears and a bushy tail; most are predators that do not hunt in packs
+108,cat,,mammal,feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats
+109,puma,puma catamount mountain_lion painter panther Felis_concolor,mammal,large American feline resembling a lion
+110,lynx,catamount,mammal,short-tailed wildcats with usually tufted ears; valued for their fur
+111,cat,,mammal,any of several large cats typically able to roar and living in the wild
+112,panther,,mammal,a leopard in the black color phase
+113,panther,panther Panthera_onca Felis_onca,mammal,a large spotted feline of tropical America similar to the leopard; in some classifications considered a member of the genus Felis
+114,lion,king_of_beasts Panthera_leo,mammal,large gregarious predatory feline of Africa and India having a tawny coat with a shaggy mane in the male
+115,tiger,Panthera_tigris,mammal,large feline of forests in most of Asia having a tawny coat with black stripes; endangered
+116,bear,,mammal,massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws
+117,grizzly_bear,silvertip silver-tip Ursus_horribilis Ursus_arctos_horribilis,mammal,powerful brownish-yellow bear of the uplands of western North America
+118,polar_bear,polar_bear Ursus_Maritimus Thalarctos_maritimus,mammal,white bear of Arctic regions
+119,mongoose,,mammal,agile grizzled Old World viverrine; preys on snakes and rodents
+120,bat,chiropteran,mammal,nocturnal mouselike mammal with forelimbs modified to form membranous wings and anatomical adaptations for echolocation by which they navigate
+121,beetle,,invertebrate,insect having biting mouthparts and front wings modified to form horny covers overlying the membranous rear wings
+122,ladybug,ladybeetle lady_beetle ladybird ladybird_beetle,invertebrate,small round bright-colored and spotted beetle that usually feeds on aphids and other insect pests
+123,louse,,invertebrate,wingless usually flattened bloodsucking insect parasitic on warm-blooded animals
+124,crab,pubic_louse Phthirius_pubis,invertebrate,a louse that infests the pubic region of the human body
+125,louse,biting_louse,invertebrate,wingless insect with mouth parts adapted for biting; mostly parasitic on birds
+126,flea,,invertebrate,any wingless bloodsucking parasitic insect noted for ability to leap
+127,fly,,invertebrate,two-winged insects characterized by active flight
+128,gadfly,,invertebrate,any of various large flies that annoy livestock
+129,mosquito,,invertebrate,two-winged insect whose female has a long proboscis to pierce the skin and suck the blood of humans and animals
+130,midge,,invertebrate,minute two-winged mosquito-like fly lacking biting mouthparts; appear in dancing swarms especially near water
+131,bee,,invertebrate,any of numerous hairy-bodied insects including social and solitary species
+132,bumblebee,humblebee,invertebrate,robust hairy social bee of temperate regions
+133,wasp,,invertebrate,social or solitary hymenopterans typically having a slender body with the abdomen attached by a narrow stalk and having a formidable sting
+134,ant,emmet pismire,invertebrate,social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers
+135,grasshopper,,invertebrate,terrestrial plant-eating insect with hind legs adapted for leaping
+136,cockroach,,invertebrate,any of numerous chiefly nocturnal insects; some are domestic pests
+137,louse,,invertebrate,any of several small insects especially aphids that feed by sucking the juices from plants
+138,aphid,,invertebrate,any of various small plant-sucking insects
+139,dragonfly,darning_needle devil's_darning_needle sewing_needle snake_feeder snake_doctor mosquito_hawk skeeter_hawk,invertebrate,slender-bodied non-stinging insect having iridescent wings that are outspread at rest; adults and nymphs feed on mosquitoes etc.
+140,moth,,invertebrate,typically crepuscular or nocturnal insect having a stout body and feathery or hairlike antennae
+141,caterpillar,,larva,a wormlike and often brightly colored and hairy or spiny larva of a butterfly or moth
+142,nymph,,larva,a larva of an insect with incomplete metamorphosis (as the dragonfly or mayfly)
+143,maggot,,larva,the larva of the housefly and blowfly commonly found in decaying organic matter
+144,starfish,sea_star,invertebrate,echinoderms characterized by five arms extending from a central disk
+145,rabbit,coney cony,mammal,any of various burrowing animals of the family Leporidae having long ears and short tails; some domesticated and raised for pets or food
+146,hare,,mammal,swift timid long-eared mammal larger than a rabbit having a divided upper lip and long hind legs; young born furred and with open eyes
+147,mouse,,mammal,any of numerous small rodents typically resembling diminutive rats having pointed snouts and small ears on elongated bodies with slender usually hairless tails
+148,rat,,mammal,any of various long-tailed rodents similar to but larger than a mouse
+149,hamster,,mammal,short-tailed Old World burrowing rodent with large cheek pouches
+150,gerbil,,mammal,small Old World burrowing desert rodent with long soft pale fur and hind legs adapted for leaping
+151,porcupine,hedgehog,mammal,relatively large rodents with sharp erectile bristles mingled with the fur
+152,squirrel,,mammal,a kind of arboreal rodent having a long bushy tail
+153,prairie_dog,prairie_marmot,mammal,any of several rodents of North American prairies living in large complex burrows having a barking cry
+154,marmot,,mammal,stocky coarse-furred burrowing rodent with a short bushy tail found throughout the northern hemisphere; hibernates in winter
+155,beaver,,mammal,large semiaquatic rodent with webbed hind feet and a broad flat tail; construct complex dams and underwater lodges
+156,guinea_pig,Cavia_cobaya,mammal,stout-bodied nearly tailless domesticated cavy; often kept as a pet and widely used in research
+157,horse,Equus_caballus,mammal,solid-hoofed herbivorous quadruped domesticated since prehistoric times
+158,pony,,mammal,a range horse of the western United States
+159,mule,,mammal,hybrid offspring of a male donkey and a female horse; usually sterile
+160,zebra,,mammal,any of several fleet black-and-white striped African equines
+161,rhinoceros,,mammal,massive powerful herbivorous odd-toed ungulate of southeast Asia and Africa having very thick skin and one or two horns on the snout
+162,hog,pig grunter squealer Sus_scrofa,mammal,domestic swine
+163,bullock,steer,mammal,castrated bull
+164,sheep,,mammal,woolly usually horned ruminant mammal related to the goat
+165,goat,caprine_animal,mammal,any of numerous agile ruminants related to sheep but having a beard and straight horns
+166,antelope,,mammal,graceful Old World ruminant with long legs and horns directed upward and backward; includes gazelles; springboks; impalas; addax; gerenuks; blackbucks; dik-diks
+167,gazelle,,mammal,small swift graceful antelope of Africa and Asia having lustrous eyes
+168,deer,cervid,mammal,distinguished from Bovidae by the male's having solid deciduous antlers
+169,elk,elk American_elk wapiti Cervus_elaphus,mammal,common deer of temperate Europe and Asia
+170,hart,stag,mammal,"a male deer, especially an adult male red deer"
+171,elk,elk American_elk Cervus_elaphus_canadensis,mammal,large North American deer with large much-branched antlers in the male
+172,elk,moose Alces_alces,mammal,large northern deer with enormous flattened antlers in the male; called `elk' in Europe and `moose' in North America
+173,reindeer,reindeer Rangifer_tarandus,mammal,Arctic deer with large antlers in both sexes; called `reindeer' in Eurasia and `caribou' in North America
+174,camel,,mammal,cud-chewing mammal used as a draft or saddle animal in desert regions
+175,llama,,mammal,wild or domesticated South American cud-chewing animal related to camels but smaller and lacking a hump
+176,giraffe,camelopard Giraffa_camelopardalis,mammal,tallest living quadruped; having a spotted coat and small horns and very long neck and legs; of savannahs of tropical Africa
+177,weasel,,mammal,small carnivorous mammal with short legs and elongated body and neck
+178,mink,,mammal,slender-bodied semiaquatic mammal having partially webbed feet; valued for its fur
+179,polecat,fitch foulmart foumart Mustela_putorius,mammal,dark brown mustelid of woodlands of Eurasia that gives off an unpleasant odor when threatened
+180,otter,,mammal,freshwater carnivorous mammal having webbed and clawed feet and dark brown fur
+181,skunk,polecat wood_pussy,mammal,American musteline mammal typically ejecting an intensely malodorous fluid when startled; in some classifications put in a separate subfamily Mephitinae
+182,badger,,mammal,sturdy carnivorous burrowing mammal with strong claws; widely distributed in the northern hemisphere
+183,armadillo,,mammal,burrowing chiefly nocturnal mammal with body covered with strong horny plates
+184,sloth,,mammal,any of several slow-moving arboreal mammals of South America and Central America; they hang from branches back downward and feed on leaves and fruits
+185,anteater,,mammal,any of several tropical American mammals of the family Myrmecophagidae which lack teeth and feed on ants and termites
+186,anteater,scaly_anteater anteater,mammal,toothless mammal of southern Africa and Asia having a body covered with horny scales and a long snout for feeding on ants and termites
+187,tadpole,polliwog pollywog,larva,a larval frog or toad
+188,gorilla,,mammal,largest anthropoid ape; terrestrial and vegetarian; of forests of central west Africa
+189,chimpanzee,Pan_troglodytes,mammal,intelligent somewhat arboreal ape of equatorial African forests
+190,monkey,,mammal,any of various long-tailed primates (excluding the prosimians)
+191,elephant,,mammal,five-toed pachyderm
+192,mammoth,,mammal,any of numerous extinct elephants widely distributed in the Pleistocene; extremely large with hairy coats and long upcurved tusks
+193,racoon,racoon,mammal,an omnivorous nocturnal mammal native to North America and Central America
+194,panda,red_panda bear_cat cat_bear Ailurus_fulgens,mammal,reddish-brown Old World raccoon-like carnivore; in some classifications considered unrelated to the giant pandas
+195,panda,panda_bear coon_bear Ailuropoda_melanoleuca,mammal,large black-and-white herbivorous mammal of bamboo forests of China and Tibet; in some classifications considered a member of the bear family or of a separate family Ailuropodidae
+196,cod,,fish,major food fish of Arctic and cold-temperate waters
+197,haddock,Melanogrammus_aeglefinus,fish,important food fish on both sides of the Atlantic; related to cod but usually smaller
+198,eel,,fish,voracious snakelike marine or freshwater fishes with smooth slimy usually scaleless skin and having a continuous vertical fin but no ventral fins
+199,salmon,,fish,any of various large food and game fishes of northern waters; usually migrate from salt to fresh water to spawn
+200,trout,,fish,any of various game and food fishes of cool fresh waters mostly smaller than typical salmons
+201,perch,,fish,any of numerous spiny-finned fishes of various families of the order Perciformes
+202,pike,,fish,any of several elongate long-snouted freshwater game and food fishes widely distributed in cooler parts of the northern hemisphere
+203,dolphin,mahimahi,fish,large slender food and game fish widely distributed in warm seas (especially around Hawaii)
+204,piranha,pirana caribe,fish,small voraciously carnivorous freshwater fishes of South America that attack and destroy living animals
+205,plaice,Pleuronectes_platessa,fish,large European food fish
+206,halibut,holibut,fish,marine food fish of the northern Atlantic or northern Pacific; the largest flatfish and one of the largest teleost fishes
